@@ -6,10 +6,10 @@ export const s = StyleSheet.create({
     container:{
         width: "100%",
         flexDirection: "row",
-        gap: 16
+        gap: 16,
     },
     details:{
-        flex: 1
+        flex: 1,
     },
     title:{
         fontSize:16,
